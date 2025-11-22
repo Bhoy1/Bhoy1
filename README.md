@@ -28,6 +28,7 @@ Developed YOLO based detection and segmentation models for surgical instrument t
 ### **FAA Data Challenge – Finalist Project and Conference Paper**  
 Built reinforcement learning models to optimize routing and decision making for eVTOL operations under uncertainty.  
 **Paper:** [ACM Digital Library](https://dl.acm.org/doi/abs/10.5555/3712729.3712773)
+**Project:** [FAA Data Challenge Finalists](https://faadatachallenge.nianet.org/2023-finalists/)
 
 ***
 
