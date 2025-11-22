@@ -1,6 +1,17 @@
+<img src="DC582330-1A57-4BF9-94DD-6F2B07C3BAA0.jpeg" width="160" align="left" />
+
 ## Billy Hoy — PhD Student & Navy Researcher
 
+<br clear="left" />
+
 I am a PhD student in **Operations Research & Systems Engineering** at the University of Miami, with an undergraduate background in **Mechanical Engineering**. I also work at the **Center for Naval Analyses (CNA)**, the Navy’s federally funded research and development center, where I contribute to data driven research and operational analysis for defense applications.
+
+---
+
+## Current Work
+
+- Continual learning methods for large language models  
+- Reinforcement learning environments for complex optimization problems
 
 ---
 
@@ -17,13 +28,6 @@ Developed YOLO based detection and segmentation models for surgical instrument t
 ### **FAA Data Challenge – Finalist Project and Conference Paper**  
 Built reinforcement learning models to optimize routing and decision making for eVTOL operations under uncertainty.  
 **Paper:** [ACM Digital Library](https://dl.acm.org/doi/abs/10.5555/3712729.3712773)
-
----
-
-## Current Work
-
-- Continual learning methods for large language models  
-- Reinforcement learning environments for complex optimization problems  
 
 ---
 
