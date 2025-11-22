@@ -6,6 +6,8 @@
 
 I am a PhD student in Operations Research & Systems Engineering at the University of Miami, with an undergraduate background in Mechanical Engineering. I also work at the Center for Naval Analyses (CNA), the Navy’s federally funded research and development center, where I contribute to data driven research and operational analysis for defense applications.
 
+---
+
 ## Current Work
 
 - Continual learning methods for large language models  
