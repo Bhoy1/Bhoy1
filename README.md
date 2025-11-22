@@ -1,8 +1,8 @@
-<img src="DC582330-1A57-4BF9-94DD-6F2B07C3BAA0.jpeg" width="160" align="left" />
+<p align="center">
+  <img src="DC582330-1A57-4BF9-94DD-6F2B07C3BAA0.jpeg" width="200" />
+</p>
 
 ## Billy Hoy — PhD Student & Navy Researcher
-
-<br clear="left" />
 
 I am a PhD student in **Operations Research & Systems Engineering** at the University of Miami, with an undergraduate background in **Mechanical Engineering**. I also work at the **Center for Naval Analyses (CNA)**, the Navy’s federally funded research and development center, where I contribute to data driven research and operational analysis for defense applications.
 
