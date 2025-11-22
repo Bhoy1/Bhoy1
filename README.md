@@ -17,15 +17,19 @@ I am a PhD student in Operations Research & Systems Engineering at the Universit
 
 ## Past Work and Publications
 
-### **STABLE: Gated Continual Learning for Large Language Models** *(First Author)*  
+### **Evolution Strategies for LoRA Based Adaptation** *(Technical Blog Post, 2025)*
+A recent write up exploring how Evolution Strategies (ES) can be applied to LoRA adapters instead of full parameter fine tuning, reducing compute cost while enabling exploration-based optimization.  
+**Blog Post:** [Evolution Strategies + LoRA](https://bhoy1.github.io/ES_LLM_1/2025/10/27/evolution-strategies-lora.html)
+
+### **STABLE: Gated Continual Learning for Large Language Models** *(First Author, 2025)*
 Proposed a gated continual learning method for LLMs that applies LoRA based updates only when they meet stability criteria, reducing catastrophic forgetting while enabling efficient sequential adaptation.  
 **Paper:** [arXiv](https://arxiv.org/abs/2510.16089)
 
-### **Medical Computer Vision Research** *(Second Author)*  
+### **Medical Computer Vision Research** *(Second Author, 2024)*
 Developed YOLO based detection and segmentation models for surgical instrument tracking and designed temporal metrics for evaluating surgical skill.  
 **Paper:** [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0039606025003927?dgcid=coauthor)
 
-### **FAA Data Challenge – Finalist Project and Conference Paper**  
+### **FAA Data Challenge – Finalist Project and Conference Paper** *(2023)*
 Built reinforcement learning models to optimize routing and decision making for eVTOL operations under uncertainty.  
 **Paper:** [ACM Digital Library](https://dl.acm.org/doi/abs/10.5555/3712729.3712773)
 **Project:** [FAA Data Challenge Finalists](https://faadatachallenge.nianet.org/2023-finalists/)
