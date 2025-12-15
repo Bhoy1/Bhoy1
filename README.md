@@ -29,6 +29,9 @@ Proposed a gated continual learning method for LLMs that applies LoRA based upda
 Developed YOLO based detection and segmentation models for surgical instrument tracking and designed temporal metrics for evaluating surgical skill.  
 **Paper:** [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0039606025003927?dgcid=coauthor)
 
+### **Early Research Exploration** *(2024)*
+Hands on exploration of POMDPs and latent representation learning for decision making under uncertainty.
+
 ### **FAA Data Challenge – Finalist Project and Conference Paper** *(2023)*
 Built reinforcement learning models to optimize routing and decision making for eVTOL operations under uncertainty.  
 **Paper:** [ACM Digital Library](https://dl.acm.org/doi/abs/10.5555/3712729.3712773)
