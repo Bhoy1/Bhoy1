@@ -4,7 +4,7 @@
 
 ## Billy Hoy — PhD Student 
 
-I am a PhD student in Operations Research & Systems Engineering at the University of Miami, with an undergraduate background in Mechanical Engineering. I also work at the Center for Naval Analyses (CNA), the Navy’s federally funded research and development center, where I contribute to data driven research and operational analysis for defense applications.
+I am a PhD student in Operations Research & Systems Engineering at the University of Miami, with an undergraduate background in Mechanical Engineering. I also work at the Center for Naval Analyses (CNA), the Navy’s federally funded research and development center, where I contribute to data driven research and operational analysis for defense applications. I am also a Research Resident at Prime Intellect, working on open source AI training infrastructure.
 
 ***
 
@@ -16,6 +16,10 @@ I am a PhD student in Operations Research & Systems Engineering at the Universit
 ***
 
 ## Past Work and Publications
+
+### **Multi-Agent Framework for Dueling LLMs** *(Open-Source Contribution, 2026)*
+Extended Prime Intellect's verifiers framework to support multi-agent setups enabling dueling LLMs. Includes environments for multi-agent poker and other games.
+**PR/Fork:** [GitHub](https://github.com/PrimeIntellect-ai/verifiers/pull/784)
 
 ### **Evolution Strategies for LoRA Based Adaptation** *(Technical Blog Post, 2025)*
 A recent write up exploring how Evolution Strategies (ES) can be applied to LoRA adapters instead of full parameter fine tuning, reducing compute cost while enabling exploration-based optimization.  
