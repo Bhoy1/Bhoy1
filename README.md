@@ -4,7 +4,7 @@
 
 ## Billy Hoy — PhD Student 
 
-I am a PhD student in Operations Research & Systems Engineering at the University of Miami, with an undergraduate background in Mechanical Engineering. I also work at the Center for Naval Analyses (CNA), the Navy’s federally funded research and development center, where I contribute to data driven research and operational analysis for defense applications. I am also a Research Resident at Prime Intellect, working on open source AI training infrastructure.
+I am a PhD student in Operations Research & Systems Engineering at the University of Miami, with an undergraduate background in Mechanical Engineering. I also work at the Center for Naval Analyses (CNA), the Navy’s federally funded research and development center (FFRDC), where I contribute to data driven research and operational analysis for defense applications. I am also a Research Resident at Prime Intellect, working on open source AI training infrastructure.
 
 ***
 
