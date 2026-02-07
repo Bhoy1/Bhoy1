@@ -19,7 +19,7 @@ I am a PhD student in Operations Research & Systems Engineering at the Universit
 
 ### **Multi-Agent Framework for Dueling LLMs** *(Open-Source Contribution, 2026)*
 Extended Prime Intellect's verifiers framework to support multi-agent setups enabling dueling LLMs. Includes environments for multi-agent poker and other games.
-**PR/Fork:** [GitHub](https://github.com/PrimeIntellect-ai/verifiers/pull/784)
+**PR** [GitHub](https://github.com/PrimeIntellect-ai/verifiers/pull/784)
 
 ### **Evolution Strategies for LoRA Based Adaptation** *(Technical Blog Post, 2025)*
 A recent write up exploring how Evolution Strategies (ES) can be applied to LoRA adapters instead of full parameter fine tuning, reducing compute cost while enabling exploration-based optimization.  
