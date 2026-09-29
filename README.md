@@ -17,6 +17,11 @@ I am a PhD student in Operations Research & Systems Engineering at the Universit
 
 ## Past Work and Publications
 
+### **Matching Accuracy, Different Geometry: Evolution Strategies vs GRPO in LLM Post-Training** *(First Author, COLM 2026)*
+Compared Evolution Strategies and GRPO across four tasks and continual-learning settings, showing that similar task accuracy can arise from geometrically distinct model updates with different implications for forgetting and knowledge preservation.
+
+**Paper:** [arXiv](https://arxiv.org/abs/2604.01499) | **Code:** [GitHub](https://github.com/Bhoy1/ESvsGRPO)
+
 ### **Multi-Agent Framework for Dueling LLMs** *(Open-Source Contribution, 2026)*
 Extended Prime Intellect's verifiers framework to support multi-agent setups enabling dueling LLMs. Includes environments for multi-agent poker and other games.
 **PR** [GitHub](https://github.com/PrimeIntellect-ai/verifiers/pull/784)
@@ -47,8 +52,6 @@ Built reinforcement learning models to optimize routing and decision making for 
 
 - **Reinforcement Learning for Weapon Optimization:** Built RL environments to model weapon effectiveness, engagement sequencing, and operational decision making under uncertainty.  
 - **Defense Modeling and Analytics:** Conducted end to end modeling work including data engineering, feature development, statistical analysis, and predictive modeling for Navy datasets.
-
-
 
 
 
