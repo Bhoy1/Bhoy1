@@ -17,7 +17,7 @@ I am a PhD student in Operations Research & Systems Engineering at the Universit
 
 ## Past Work and Publications
 
-### **Asynchronous Is Nearly Free for Evolution Strategies on Long-Horizon Agentic Tasks** *(Technical Blog and Toolbox, 2026)*
+### **Asynchronous Is Nearly Free for Evolution Strategies on Long-Horizon Agentic Tasks** *(NeurIPS 2026 Workshop: Transitioning from Pre-Training to Post-Training)*
 Released a bounded-staleness asynchronous ES trainer for long-horizon, stateful language agents, with an Endless Terminals integration and initial results using Qwen2.5-7B-Instruct.
 
 **Paper:** [arXiv](https://arxiv.org/html/2610.04196v1) | **Blog and Code:** [GitHub](https://github.com/Bhoy1/async-es)
