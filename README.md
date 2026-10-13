@@ -18,7 +18,7 @@ I am a PhD student in Operations Research & Systems Engineering at the Universit
 ## Past Work and Publications
 
 ### **ECHO on BabyAI** *(Technical Blog Post, 2026)*
-Compared RL and ECHO on BabyAI under a 20-turn interaction budget, examining held-out performance, rollout efficiency, and schedules that switch between RL, ECHO, and observation-only SFT.
+Explored ECHO for fast, action-oriented decision-making in an embodied AI setting, using BabyAI with a 20-turn interaction limit and explicit thinking disabled.
 
 **Blog Post:** [ECHO on BabyAI](https://bhoy1.github.io/echo-babyai-findings/)
 
