@@ -17,6 +17,11 @@ I am a PhD student in Operations Research & Systems Engineering at the Universit
 
 ## Past Work and Publications
 
+### **ECHO on BabyAI** *(Technical Blog Post, 2026)*
+Compared RL and ECHO on BabyAI under a 20-turn interaction budget, examining held-out performance, rollout efficiency, and schedules that switch between RL, ECHO, and observation-only SFT.
+
+**Blog Post:** [ECHO on BabyAI](https://bhoy1.github.io/echo-babyai-findings/)
+
 ### **Asynchronous Is Nearly Free for Evolution Strategies on Long-Horizon Agentic Tasks** *(NeurIPS 2026 Workshop: Transitioning from Pre-Training to Post-Training)*
 Released a bounded-staleness asynchronous ES trainer for long-horizon, stateful language agents, with an Endless Terminals integration and initial results using Qwen2.5-7B-Instruct.
 
