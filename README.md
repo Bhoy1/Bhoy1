@@ -17,7 +17,7 @@ I am a PhD student in Operations Research & Systems Engineering at the Universit
 
 ## Past Work and Publications
 
-### **ECHO on BabyAI** *(Technical Blog Post, 2026)*
+### **ECHO on BabyAI** *(Prime Residency, Technical Blog Post, 2026)*
 Explored ECHO for fast, action-oriented decision-making in embodied AI, using BabyAI.
 
 **Blog Post:** [ECHO on BabyAI](https://bhoy1.github.io/echo-babyai-findings/)
