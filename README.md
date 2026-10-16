@@ -22,10 +22,10 @@ Explored ECHO for fast, action-oriented decision-making in embodied AI, using Ba
 
 **Blog Post:** [ECHO on BabyAI](https://bhoy1.github.io/echo-babyai-findings/)
 
-### **Asynchronous Is Nearly Free for Evolution Strategies on Long-Horizon Agentic Tasks** *(NeurIPS 2026 Workshop: Transitioning from Pre-Training to Post-Training)*
+### **Asynchrony Is Nearly Free for Evolution Strategies on Long-Horizon LLM Agentic Tasks** *(First Author, NeurIPS 2026 Workshop: Transitioning from Pre-Training to Post-Training)*
 Released a bounded-staleness asynchronous ES trainer for long-horizon, stateful language agents, with an Endless Terminals integration and initial results using Qwen2.5-7B-Instruct.
 
-**Paper:** [arXiv](https://arxiv.org/html/2610.04196v1) | **Blog and Code:** [GitHub](https://github.com/Bhoy1/async-es)
+**Paper:** [arXiv](https://arxiv.org/abs/2610.04196) | **Blog and Code:** [GitHub](https://github.com/Bhoy1/async-es)
 
 ### **Continuous Context Management** *(First Author, 2026)*
 Introduced a long-horizon agent approach that compacts context at every turn, together with a GRPO and privileged full-history distillation training method that improves task performance while keeping active prompts compact.
